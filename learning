@@ -1,0 +1,9 @@
+Constructor functions
+    function BelBoy (name, age, workPermit, languages) {
+      this.name = name;
+      this.age = age;
+      this.workPermit = workPermit;
+      this.languages = languages;
+    }
+
+    NOTE: The function name starts with a capital letter (Pascal case)
